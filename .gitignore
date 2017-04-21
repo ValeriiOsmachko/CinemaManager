@@ -1,0 +1,17 @@
+
+PreProductionTask4/.settings
+PreProductionTask4/.classpath
+PreProductionTask4/.project
+PreProductionTask4/PreProductionTask4.iml
+PreProductionTask4/bin/com/
+Task10/.classpath
+Task10/.settings
+Task10/.project
+*.jar
+*.war
+*.ear
+*.iml
+.idea
+*.target
+
+
